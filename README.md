@@ -17,7 +17,7 @@ Each solution is implemented in Python with an emphasis on **readability, correc
 HCLTech_Python_QA_Basic_Level/
 │
 ├── README.md
-├── Problem_Statement.pdf
+├── LICENSE
 │
 └── Looping/
     ├── Question1.md
